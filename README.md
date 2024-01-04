@@ -1,1 +1,2 @@
-# Health-Monitoring
+# Health Monitoring System using Arduino and GSM Module
+So, for people who are staying in remote areas have a diffculty of having check-up of their health everytime because they have to spend lot of money, time and effort to make that happen as they have to go to nearby cities or villages where they have the hospitals. So, in this project we are creating a prototype such that they can have their health check-ups at the place where they are staying itself from the doctors whom they want to access.
