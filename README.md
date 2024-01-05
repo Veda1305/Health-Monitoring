@@ -21,4 +21,4 @@ Perfect for those in remote areas, this project ensures that managing your healt
 ## Peace of Mind for Professionals
 For healthcare professionals, HealthGuard Pro provides a valuable tool for quick response to any changes in a patient's health. It's especially useful for those with chronic conditions or at risk of medical emergencies.<br>
 
-# *In a nutshell, HealthGuard Pro is not just a project; it's a healthcare game-changer. Say goodbye to the stress of traveling for check-ups. Embrace health monitoring that's simple, smart, and tailored for you!*
+## *In a nutshell, HealthGuard Pro is not just a project; it's a healthcare game-changer. Say goodbye to the stress of traveling for check-ups. Embrace health monitoring that's simple, smart, and tailored for you!*
